@@ -1,0 +1,41 @@
+body {
+    background-color: #F5EEDD;
+    font-family: serif;
+    text-align: left;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+
+h1 {
+    font-family:serif;
+    text-align: center;
+    color: #84B3CE;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family:serif;
+    text-align: center;
+    color: #84B3CE;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+p {
+   font-family: monospace;
+   font-size: 17px;
+   text-align: left;
+   color: #245570;
+}
+
+img {
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+  border: 10px solid #d1c8b2;
+  background-color: #00C4BA;
+  filter: saturate(80%);
+  cursor: crosshair;
+}
